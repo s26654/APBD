@@ -1,2 +1,3 @@
+thirdModifier
+gitconflict
 
-conflictgit
